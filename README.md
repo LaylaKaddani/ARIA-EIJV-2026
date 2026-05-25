@@ -80,6 +80,3 @@ On s'est réparti les rôles selon les spécialités de chacune dès le début. 
 
 La difficulté principale n'était pas technique. C'était de faire travailler ensemble trois spécialités qui ne parlent pas toujours le même langage. Ce projet nous a appris autant sur la collaboration que sur l'intelligence artificielle.
 
-Madame Florette Martinez, responsable Cybersécurité
-
-Monsieur Emmanuel Baudrin, responsable GEE
